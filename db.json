@@ -1,0 +1,1731 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJb229OOdcfCERxa_QUqANfjA",
+         "types" : [
+            "establishment",
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAwcC5bhcfCERZin-wkOEVjA",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJacJAA5ZcfCERiHwjTKvTZfQ",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsVGW0JdcfCERnhllAzKKTVI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIXNSe5lcfCERqia2Y4xbDxQ",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpSpRKuhbfCERzut2HvCv8wY",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJh8obcEtbfCERzmPkFLMSUt4",
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJxbwIdodbfCERgHz8Hvs2qJg",
+         "types" : [ "car_repair", "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsbKPF4VbfCERY7XPfH-bdrc",
+         "types" : [ "beauty_salon", "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJX3K7BS1bfCER5r6i7Hai7Mg",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJf5RgYCZbfCER22ejYdnanU8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJU0kRBNhafCERQoF41qOj7T0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -20.2391423,
+               "lng" : 57.53901570000001
+            },
+            "southwest" : {
+               "lat" : -20.3220921,
+               "lng" : 57.4649803
+            }
+         },
+         "copyrights" : "Map data ©2020",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "31.0 km",
+                  "value" : 30985
+               },
+               "duration" : {
+                  "text" : "1 hour 14 mins",
+                  "value" : 4465
+               },
+               "end_address" : "P. De Valence St, Beau Bassin-Rose Hill, Mauritius",
+               "end_location" : {
+                  "lat" : -20.2398235,
+                  "lng" : 57.4742007
+               },
+               "start_address" : "Vighneshwar Social Hall, Mumbhai Rd I, Vacoas-Phoenix, Mauritius",
+               "start_location" : {
+                  "lat" : -20.3220921,
+                  "lng" : 57.4871175
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -20.3216745,
+                        "lng" : 57.4870636
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eEdoo Lane IV\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "`d`{Bo}z}I]@u@H"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3220921,
+                        "lng" : 57.4871175
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 243
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : -20.3219485,
+                        "lng" : 57.48475109999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eEdoo Lane IV\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "la`{Bc}z}Iv@lM"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3216745,
+                        "lng" : 57.4870636
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.2 km",
+                        "value" : 2155
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 402
+                     },
+                     "end_location" : {
+                        "lat" : -20.3027216,
+                        "lng" : 57.4848891
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Neeloosha &amp; Sundeep Agency onto \u003cb\u003eB64\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Royal Store (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "dc`{Bunz}IuBJa@@I@U@{@Dm@BS@kBF[@M@W?_@?mAAaCAaAAAAA?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A??AA?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?AAA?A?A?_@?Y@o@BA?A?A?A?C?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A@A?A?A?A?A?A?A?A?A?A?A?A?C?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?C?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?AAA?A?A?A?A?A?AAu@GMAa@AaAGwDYA?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?CAA?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?AAA?A?A?A?A?A?A?m@GYCqFe@w@Ce@Cs@Ee@AA?WE_@Oe@O]E[AMAS?{@DA?C?A@C?A?A?C?A?C@A?A?C?A?C?A@A?C?A?C?A@A?C?A?C?A?A@C?A?C?A?A?C@C?A?C?A?A@C?A?C?A?A?C@A?C?A?A?C?A@C?A?A?C?A@C?A?A?C?A?C@A?A?C?A?C?A@A?C?A?C?A?A@C?A?C?A?A@C?A?C?A?A?C?A?C@A?A?C?A?C?A?A?C?A@C?A?A?C?A?A?A?A?A?A?A?A?A@A?A?C?A?A?A?A?A?A?A?A?A?A?A?A?A@A?A?C?A?A?A?A?A?A?A?A?A?A@A?A?A?A?A?C?A?A?A?A?A?A@A?A?A?A?A?C?A?A?A?A?A@C?A?A?A?A?A?A?A?A?A?A?A@A?A?A?A?C?A?A?A?A?A?A?A@A?A?A?A?A?A?A?A?C?A?A?A@A?A?A?A?[BI?S@{AJm@@q@EO?A?u@Ok@CWBQBO@k@Di@BA@A?A?A?A?A?A?A@A?A?A?A?A?A?A@A?A?A?A?A?A?A@A?A?A?A?A?}CRG@aBPm@J"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3219485,
+                        "lng" : 57.48475109999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 200
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : -20.3009527,
+                        "lng" : 57.4848869
+                     },
+                     "html_instructions" : "At Coin Café La Caverne Vacoas, continue onto \u003cb\u003eCandos Vacoas Rd B.70\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Green Cross Medical Lab - Vacoas (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "~j|zBqoz}Iu@D{BJ[Du@BgAQUI"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3027216,
+                        "lng" : 57.4848891
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1009
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : -20.3020772,
+                        "lng" : 57.4753998
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at La boutique Chinois Jacques onto \u003cb\u003eLa Caverne No 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Magic Touch (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|_|zBqoz}IOh@EV?V?\\HtA@f@@PCb@Gf@?T@PBFBDLNLPFNBNJdA@@?B?B?B@@?B?B?B?@@B?B?@?B@B?B?@?B?B@@?B?B?B@@?B?B?@?B@B?B?@?B@B?@?B?B@B?@?B?B?B@@?B?B?@@B?B?B?@?B@B?@?B?B@B?@?B?B?@@B?B?B?@@B?B?B?@@B?B?@?B@B?B?@?B@B?@?B?B@B?@?B?B@@?B?B?B@@?B?B?B@@?B?B?@?B@B?B?@?B@B?@?@?@?@?@@??@?@?@?@?@?@?@@@?@?@?@?@?@?@@@?@?@?@?@?@?@@@?@?@?@?@?@?@@@?@?@?@?@?@?@@@?@?@?@?@?@?@@@?@?@?@?@?@?@@@?@?@?@?@?@?@@@?@?@@RJxATnDFn@NdCLjBJvAHjANtBDd@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3009527,
+                        "lng" : 57.4848869
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 167
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : -20.3034554,
+                        "lng" : 57.47523349999999
+                     },
+                     "html_instructions" : "\u003cb\u003eLa Caverne No 1\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eBougainville Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the church (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "~f|zBgtx}I?B@@@B?@@B@@?@@B@BTPB?RF@?v@CZAbCM"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3020772,
+                        "lng" : 57.4753998
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 127
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -20.3033229,
+                        "lng" : 57.47644639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGravelea St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ro|zBesx}IMqBMaC"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3034554,
+                        "lng" : 57.47523349999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -20.3019708,
+                        "lng" : 57.47618499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVictoria Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "vn|zByzx}IcAHkBRq@Hk@L"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3033229,
+                        "lng" : 57.47644639999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 926
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 130
+                     },
+                     "end_location" : {
+                        "lat" : -20.3009527,
+                        "lng" : 57.4848869
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Sooriah Michel Waterproofing Expert onto \u003cb\u003eLa Caverne No 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Chop &amp; Shop (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hf|zBcyx}IIkAKwAMkBOeCGo@UoDKyAAS?A?AAA?A?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?A?AAA?A?A?A?A?A?A?AA??A?A?A?A?AAC?C?A?CAC?C?A?C?CAA?C?C?CAA?C?C?CAA?C?C?AAC?C?C?AAC?C?A?CAC?C?A?CAC?A?C?CAC?A?C?CAC?A?C?C?AAC?C?C?AAC?C?A?C?CAC?A?C?CAA?C?C?C?AAC?C?C?AAC?C?A?CAC?C?A?C?CAA?C?C?CAA?C?C?A?CAC?C?A?CAC?A?C?C?CAA?C?C?CAAKeACOGOMQMOCECGAQ?UFg@Bc@AQAg@IuA?]?WDWNi@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3019708,
+                        "lng" : 57.47618499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : -20.2998806,
+                        "lng" : 57.48475870000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at La boutique Chinois Jacques onto \u003cb\u003eCandos Vacoas Rd B.70\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Dr Mihammed Shaheed Noorany Hosany (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|_|zBqoz}IMEa@E_@?}@TgAN"
+                     },
+                     "start_location" : {
+                        "lat" : -20.3009527,
+                        "lng" : 57.4848869
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : -20.2996026,
+                        "lng" : 57.4865143
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at La flore visitation onto \u003cb\u003eAve Notre Dame De La Visitation\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the church (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "fy{zBwnz}IYiEI}ACUCKKS"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2998806,
+                        "lng" : 57.48475870000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 200
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : -20.2981486,
+                        "lng" : 57.48540819999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLigne Berthaud Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by AXTA Ltd (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "nw{zBuyz}Iq@f@}BnBq@f@CBy@VA?"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2996026,
+                        "lng" : 57.4865143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : -20.2977531,
+                        "lng" : 57.48616190000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJackson Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ln{zByrz}Is@aB[s@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2981486,
+                        "lng" : 57.48540819999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 251
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : -20.2957416,
+                        "lng" : 57.4850657
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJackson Ln\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the church (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|k{zBowz}IsAn@}B`A_@Rc@Tw@Zi@VYH"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2977531,
+                        "lng" : 57.48616190000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 883
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 162
+                     },
+                     "end_location" : {
+                        "lat" : -20.2918545,
+                        "lng" : 57.4923622
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Ace Centres Ltd onto \u003cb\u003eBrown Sequard Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Oomesh Reebye (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "j_{zBupz}I{BwGAAI@GAEAECEEGMGMEIc@eA_A{BsA_DcAeCu@cBeA}Bo@{AmAqCGOq@cBa@y@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2957416,
+                        "lng" : 57.4850657
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : -20.2927157,
+                        "lng" : 57.4928865
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at James tuition toward \u003cb\u003eAvenue Brelu Brelu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRue Azor Adelaide\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`gzzBg~{}IlDiB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2918545,
+                        "lng" : 57.4923622
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : -20.2923137,
+                        "lng" : 57.49375869999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAvenue Brelu Brelu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRue Azor Adelaide\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Rue Azor Adelaide\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Raja Yoga Meditation Centre Vacoas (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "nlzzBqa|}Io@aBYu@GU"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2927157,
+                        "lng" : 57.4928865
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1007
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : -20.2840482,
+                        "lng" : 57.4976828
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIndependance St\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eS Sivananda Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sdmc Measurements (on the right in 600&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|izzB_g|}Io@OeCs@}Ai@WIuBw@yCmA{Am@uCgAaCcAk@WQIyF}BqEiBg@SWIs@UeAY"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2923137,
+                        "lng" : 57.49375869999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 595
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : -20.2814807,
+                        "lng" : 57.50250080000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePalmerstone Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by ZEISS Vision Center by Gaya Opticians (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hvxzBo_}}IVeA[y@i@qA_@w@Um@{@mBa@q@]m@IKk@u@m@}@SWCEKSWo@GMCECGCECGCECECGAECE?ACECECG?ACCCGAECECGCECGCECECGCECGCECECECEEECECE"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2840482,
+                        "lng" : 57.4976828
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 532
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : -20.2772101,
+                        "lng" : 57.50077929999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Quincaillerie Bon Marche onto \u003cb\u003eA 10\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Gokhool Bldg (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ffxzBs}}}IGFGDIDQH_Ab@_Br@KFA?A@A@A?A@A@C?A@A?A@A?A@C@A?A@A@A?A@C?A@A?A@A@C?A@A@A?A@A?A@C?A@A@A?A@C?A@A@A?A@A?C@A@A?A@A?A@C@A?A@A?A@A@C?A@A?A@A@A?C@A@A?A@A?A?A@A?A@A@A?A@A?A@A?A?A@A?A@A??@A?A@A?A@A?A?A@A?A@A?A@A@A?A@A?A?A@A?u@ZA?A@A??@A?A??@A?A??@A?A??@A?A@A?A??@A?A@A?A@A?A@A??@A?A??@A?A??@A?A??@o@XA@A?A@A?A@A?A@A?A@A@A?A@A?A@A?A@A@A?A@A?A??@A?A@A?A@A@A?A??@A?A@A?A@A@A?A@A?A?A@A@A??@A?A??@A?A@A?A@A?A@A??@A?A?A@A@A?A@A??@A?A??@A?A@A?A@A?A@A??@A?A?A@A@I?G@K?K?IAEAEACAEAMIk@_@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2814807,
+                        "lng" : 57.50250080000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1559
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : {
+                        "lat" : -20.2829904,
+                        "lng" : 57.51303540000001
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eM2\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "pkwzB{r}}ICDGDGDG@G@G?G?GAGCEEGCKKIICIAIAI?I@G@I@C?CBEBGDEDCDCDCFCD?DAD?D@D?D@DBD@f@o@v@wAp@}BRm@DOJIVaAXkA\\_BFUr@uDP}@`A}D`AgDp@yAv@uAR_@f@w@pAqBvB}Cj@{@DG|@yAVe@p@sAj@mAl@mB`@mAT_A"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2772101,
+                        "lng" : 57.50077929999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1318
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : -20.2865947,
+                        "lng" : 57.5246654
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eM2\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "toxzBo_`~IKGEEEGEIAGAIAI?I@IBIBGBEDGDCDEFCFAB?N_@LWBGBIBOBQLsAJiAd@uGPiDXuCd@oDv@eE^{A\\iA\\oAv@uC\\cAr@uBt@cBj@eA~@qAr@_AJ}@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2829904,
+                        "lng" : 57.51303540000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 274
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : -20.285192,
+                        "lng" : 57.524089
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eHermitage Branch Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoyal Road\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB71\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Teak World (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "dfyzBehb~IAGAI?I?I@IBGBIHKi@u@qAbAuAxAuAxA"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2865947,
+                        "lng" : 57.5246654
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 km",
+                        "value" : 2049
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 268
+                     },
+                     "end_location" : {
+                        "lat" : -20.2748153,
+                        "lng" : 57.53901570000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Fh Supermarket to stay on \u003cb\u003eHermitage Branch Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRoyal Road\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB71\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Kesto Hardware (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "l}xzBqdb~IA?AAAAAAAAAAAAAAAAAAAAAAAAAAA??AAAAAAAAAA??AAAAAAAA??AAAAAAAA?AA?AAAAAAAA?AA?AAAAAA?AA?AAAAAA?AAAA?AAAAAA?AAAA?AAAA?AAAA?AAAA?AAAAAA?AAAA?AAAA?AAAA?AAAAAA?AAAA?AAAA?AAAAAA?AA?AAAAAAAA??AAAAAAAAAuB{BmAqA_EmE{@}@eAgA}AiBUWA??AA??AAAAAAA?AA??AA??AA??AA??AA??AA??AA??AA??AA??AA?AA?AAAAAAAAAAAAAAAAAAA?AA?AAAAAA?AAAAAA?AA?AAAAAAAAA?AA?AAAAAA?AAAAAA?AA?AAAAAAAAA?AA?AAAAAA?AAAAAAAA??AAAAAAAAA?AAAA?AAAA?AAAAAAAA??AAAAACCAACCACAACCAACCACCACCAACCAACCACCAACCAACCAACCCAACCAACCCAACCAACCCAACCAACCAACCACCAACCACCAACC?AEEECEECEEEEEEECCEEEEEECEEEECEEEECEEEEEECCEEEEEEECEECEEEECEEEEECEEEEECCEEEEEECEEEEECEA?CEEEECCEEEEECEEEEEEECEECEECEEEEEEECEEEIIEECCEEEEEECEEEECEECEEEEEEEECCEEEEEEECEECEEEECEEEEEECCEEEEEEECEEEECEECEEEEESSq@w@_AeAAAAAAA?AAAAAAAAAAAA?AA?AAAAAAAAAAAAAAA?AAAAAA?AAAAAAAA?AAAAAAAAAAAAAA??AAAAAAAAAAAAAAA?AAAAAA?AACCAAAAA?AA?AAAAAAAAAA?AAAAAAAAAAAAA?AA?AAAAAAAAAAAAAAA?AAAAAAA?AAAAA?AAA?AAC?A?A?C?A?AAC?A?A?A?C?A?A?C@s@?CAA?C?A?C?A?C?A?C?A?A?C?A?C?A?C?A?C?A?C?A?A?C?A?C?A?C?A?C?A?A?C?A?C?A?C?A?C?A?C?A?A?C?A?C?A?C?A?C?A?C?A?A?C?A?C?A?C?C?A?C?A?C?A?A@C?A?C?A?C?A?C?A?A?C?A?C?A?C?A?C?A?C?A?A?C?A?C?A?C?A?C?A?C?A?A?C?A?C@qB?A@{@A[ACEKSQ_A[[IMIGO?CCu@EkAMaD"
+                     },
+                     "start_location" : {
+                        "lat" : -20.285192,
+                        "lng" : 57.524089
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 631
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : -20.2707726,
+                        "lng" : 57.5367295
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Chantefrais onto \u003cb\u003eCôte d’Or Road\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB48\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sangam Taj Restaurant (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "r|vzB{ae~IGDQH_@Nu@Z_@ZEV?ZD`@?HB|@AZIXAFSf@s@bBKVKJQFK@C@W?mJAQ?MAKAIASE}@W"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2748153,
+                        "lng" : 57.53901570000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 958
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : -20.2670267,
+                        "lng" : 57.5297577
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "hcvzBqsd~IADCBCBCBC@E@C@C?KzDC`E?@InBCd@ERORQRwAbA]VkBrAED[TyAhAgA|@YTGD]Pa@RYNi@Lq@?ULIXCR@^J`@Fd@?f@Cf@?`@?D@D?D@D?F@D?D@D@J"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2707726,
+                        "lng" : 57.5367295
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 805
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : -20.2609401,
+                        "lng" : 57.5262615
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "|kuzB_hc~IuAV{AhAeBjBaElEiCrCg@h@a@Pi@Hk@DsIn@iBN"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2670267,
+                        "lng" : 57.5297577
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "17 m",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : -20.2608433,
+                        "lng" : 57.5261638
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zetzBcrb~I?B?@?BA@A@A@A@C?A@A?C?"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2609401,
+                        "lng" : 57.5262615
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 330
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : -20.2595456,
+                        "lng" : 57.5234004
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "fetzBoqb~IUrBKv@o@|BiAnCeBlB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2608433,
+                        "lng" : 57.5261638
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.3 km",
+                        "value" : 3271
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 154
+                     },
+                     "end_location" : {
+                        "lat" : -20.2502874,
+                        "lng" : 57.4958597
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eTerre Rouge - Verdun - Trianon Link Rd\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "d}szBg`b~I@?DDFBBDDFBF@F@F@D?@?HAFAFCFCFEDGHAF?F@H@LBT^jBrAhHt@`EfA`GPdAZbCHjAHvAB~AAlAEvAInAQ|AM`AIj@SbAADa@|Ac@pAo@|Ao@nAq@rAQ^iAzBaB`DAB_BzCeD`GqKhTQ^sEdJwBlEcD|DqFhGgApA]p@Yr@c@fAUz@UbAWpA[jAIh@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2595456,
+                        "lng" : 57.5234004
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -20.2500847,
+                        "lng" : 57.49520450000001
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "hcrzBct|}I?@@?@@@@@@@@@??@@@@@?@@@@@?@@@?@@@?@?@@@?@?@@@?@?@?@?@?@?@?@?@?@?@?@?@?@?@?@A@?@?@?@A@?@?@A??@?@A??@?@A??@A@A@?@A@A@A??@A@A@A??@A??@A??@A?A??@A?A??@A?A@A?A?A@A?A?A@A?A??@A?A?A?A?A??@A?"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2502874,
+                        "lng" : 57.4958597
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 676
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : -20.2473321,
+                        "lng" : 57.48963389999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eTerre Rouge - Verdun - Trianon Link Rd\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "~arzB_p|}IEAC?CAA?CAAACAAACZ?DAPS|@eAtCg@fAABQ`@Q^k@tAs@bBMd@MXe@hA{@pBEJq@dB]x@IPITGTKn@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2500847,
+                        "lng" : 57.49520450000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 747
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : -20.2421314,
+                        "lng" : 57.485911
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "xpqzBem{}I@@?B?B?B?BAB?BADA@ABCBA@A@C@C@i@f@[h@_@t@GL_@z@e@fA]^e@p@c@j@KJ_@b@k@d@m@\\c@VMFULo@Vk@Rs@RA?_A@cAL{AFS@c@@O@S?A?IBMBIBG@UN"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2473321,
+                        "lng" : 57.48963389999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1047
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eB 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by wizard techies (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "hppzB}uz}IGHEDEBITEFGHGXMnDAj@?B?B?B?B?B?B?BAB?B?B?B?B?B?B?B?B?B?D?B?B?B?B?B?B?B?B?B?B?B?B?B?B?B?B?B?D?B?B?B?BAB?B?B?B?B?B?B?B?B?B?B?B?B?D?B?B?B?B?B?F?B?B?B?B?B?B?B?B?B?B?B?D?B?B?B?B?B?B?B?B?B?B?B?B?B?B?B?B?B?D?B?B?B?B?B?B?B?B?BAfEGdC?|@v@hD@@@B@@@B@@@B@@B@@@@BB@@@@BB@@@@@BB@@@@@@@@@@@@@@B@@B@@B@@@@@BB@@@@B@rC|B`@^PT^d@x@lAd@l@Xj@FZ"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2421314,
+                        "lng" : 57.485911
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 214
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : -20.2454893,
+                        "lng" : 57.4785696
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Maha Green House onto \u003cb\u003eA1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Fit for life (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "l}pzBi~x}IpAkBXa@BA@CBC@A@C@ABC@A@CBA@C@ABC@C@A@CBA@C@ABC@A@C@ABC@C@ABC@A@CBA@C@A@CBA@C@CBA@C@A@CBA@C@ABC@C@ABC@A@C@ABC@A@CBA@C"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : -20.2468046,
+                        "lng" : 57.47741440000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Istanbul Snack onto \u003cb\u003eBoundary Rd B.75\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "heqzBahy}IxCfCj@d@@@@??@@??@@??@@??@@??@@?@@@@@@@@@??@@?@@@@@@@@@@@@@@@??@@??@@?@@@@@@@??@@??@@??@@??@@??@@??@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2454893,
+                        "lng" : 57.4785696
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : -20.248528,
+                        "lng" : 57.47588659999999
+                     },
+                     "html_instructions" : "At Le Barbie Day Care-Center, continue onto \u003cb\u003eBoundary Road B75\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Quran House, The Islamic Cir (on the left)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "nmqzBy`y}ItEzDbCrB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2468046,
+                        "lng" : 57.47741440000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 836
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : -20.2543362,
+                        "lng" : 57.47080740000001
+                     },
+                     "html_instructions" : "At RESTO KOUP FAIM, continue onto \u003cb\u003eBoundary Rd \"B.75\"\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Magasin Cressan (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "hxqzBiwx}I|AnAp@l@r@l@`A`AHDdDnCv@p@HFdA|@xAjA`@\\x@n@FFB@@@@@@?@@@@?@@?@@@@@@@@@?@@@@@@@@@@@@@@@?@@@@@@@??@@@@@@?@@@@@@@@@?@@?@@@@?@@@@@@@@@?@@@@?@@?@@@@@@@@@?@@@@?@@@@?@@@@@@@?@@@@?@@@@?@@@@@@@@@?@@?@@@@?@@@@@@@@@?@@?@@@B@XVJFfA~@bAz@~@v@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.248528,
+                        "lng" : 57.47588659999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 130
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -20.2533479,
+                        "lng" : 57.47015080000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRobert E. Hart Ave\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "r|rzBqww}IeAn@]Ri@Zw@b@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2543362,
+                        "lng" : 57.47080740000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 152
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : -20.2526754,
+                        "lng" : 57.4714109
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Restaurant Dragon Rouge toward \u003cb\u003eHugnin Road\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "lvrzBmsw}I{@eCiAuB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2533479,
+                        "lng" : 57.47015080000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -20.2516009,
+                        "lng" : 57.47083429999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Fimtex Ltee. onto \u003cb\u003eHugnin Road\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "frrzBi{w}IgAb@]PqB|@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2526754,
+                        "lng" : 57.4714109
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : -20.2517217,
+                        "lng" : 57.47051239999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHugnin Road\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "nkrzBuww}IV~@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2516009,
+                        "lng" : 57.47083429999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -20.2516009,
+                        "lng" : 57.47083429999999
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-right",
+                     "polyline" : {
+                        "points" : "flrzBuuw}IW_A"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2517217,
+                        "lng" : 57.47051239999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : -20.2532643,
+                        "lng" : 57.47174889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHugnin Road\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Fimtex Ltee. (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "nkrzBuww}IpB}@\\QfAc@x@_@PIf@Y"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2516009,
+                        "lng" : 57.47083429999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 365
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : -20.2507177,
+                        "lng" : 57.473951
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Dentist Ajay Raheja onto \u003cb\u003eBoundary Rd \"B.75\"\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Rayhan Fast Food (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zurzBm}w}IYWCAAA?AAAA?AAAAAAAAA?AA?AAAA?AAAAAAAAA?AA?AAAAAA?AAAAAAA?AA?AAAAAA?AAAAAAAAA??AAAAAA?AAAAAAAAA?AA?AAAA?AAAAAAAAA?AAAA?AA?AAAAAAA?AAAAAAAAAAAAAAA?AAAAAAAAA??AAAAAA?AAAACAGGy@o@a@]yAkAeA}@IGw@q@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2532643,
+                        "lng" : 57.47174889999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 321
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : -20.2522344,
+                        "lng" : 57.4765441
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Emtel Cash onto \u003cb\u003ePasteur Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by ArtPro Ltd (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "~erzBekx}IXm@Xq@Tk@Jk@Pq@Xg@v@{ArBwC"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2507177,
+                        "lng" : 57.473951
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 730
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : -20.2469757,
+                        "lng" : 57.4806672
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Quick Crepes onto \u003cb\u003eAvenue Remy Ollier\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Nafa Scale Co Ltd (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "lorzBk{x}IuAqAMKOM?AAAA?AAAAA?AA?AAAA?AAAAA?AA?AAAA?AAAAA?AAAA?AA?AAAAA?AAAA?AA?AAAAA?AAAA?AA?AAAAA?AAAAAAAAAAA?AAAAA??AAAAAA?AAAAA??AAAAAA?AAAAA?AA?AAAA?AAAAA?AA?AAAA?AAAAAAAAAAAAA?AA?ACAAAAAAAAAA?AA?AAAA?AAAAWUw@o@OOm@e@YWe@c@e@]wAmAGEUOSMQKSKUOOIOIeAQWMSOe@]c@[eBoA"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2522344,
+                        "lng" : 57.4765441
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 489
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 106
+                     },
+                     "end_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Elisa Coiffure onto \u003cb\u003eA1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by ABC Theatre (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rnqzBeuy}IqB|CCJ{@xAwB~CABC@ABA@CBA@ABA@CBA@ABCBA@ABC@ABA@ABC@ABABC@ABA@ABC@ABA@CBA@ABCBA@ABA@CBA@ABC@ABA@ABCBA@ABC@ABA@CBA@ABA@CBABC@Y`@qAjB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2469757,
+                        "lng" : 57.4806672
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : -20.2443649,
+                        "lng" : 57.47521869999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at Maha Green House onto \u003cb\u003eDr Maurice Cure St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Editions Les Mascareignes Ltée (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "l}pzBi~x}IZbFAx@?fA"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 160
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : -20.2452711,
+                        "lng" : 57.47403300000001
+                     },
+                     "html_instructions" : "At Patisserie Brioche D'or, \u003cb\u003eDr Maurice Cure St\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eGladstone St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Edward VII Bus Station (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "f~pzBcsx}Ij@n@hC|D"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2443649,
+                        "lng" : 57.47521869999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 108
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : -20.2444983,
+                        "lng" : 57.4734052
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRue Léoville L'homme\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Tabagie Bonanza (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "|cqzBukx}Iw@h@iAx@WV"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2452711,
+                        "lng" : 57.47403300000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 722
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 152
+                     },
+                     "end_location" : {
+                        "lat" : -20.2448543,
+                        "lng" : 57.4664985
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at First Hong Kong Superstore onto \u003cb\u003eDr Maurice Cure St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Chang Kong (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "b_qzBygx}ILtF@X@RPjG?tA@~@Br@F|B?b@BbBLpE?j@@fB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2444983,
+                        "lng" : 57.4734052
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 355
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : -20.2473054,
+                        "lng" : 57.4652365
+                     },
+                     "html_instructions" : "At Stanley Police Station, continue onto \u003cb\u003eSir Celicourt Antelme St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Université des Mascareignes: Ecole de Geopolitique (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "haqzBs|v}IT`@NV\\l@f@bAJRV`@Vd@JJRDn@HZFN@LBBB`@ErCs@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2448543,
+                        "lng" : 57.4664985
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 309
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : -20.2463214,
+                        "lng" : 57.46800179999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at St Anne Supermarket onto \u003cb\u003eSte Anne Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the church (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "tpqzBwtv}IA??A?AAA?A?A?AAA?A?AA??A?A?AAA?A?AA??A?A?AAA?A?AAA?A?AAA?A?AAA?A?A?AA??A?AAA?A?A?AA??A?AAA?A?A?AAA?A?AA??A?A?AAA?A?AAA?A?AAA?A?AAA?A?AAA?A?AAA?A?A?AA?YaAKc@k@yBeA_E"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2473054,
+                        "lng" : 57.4652365
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "14 m",
+                        "value" : 14
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -20.2464271,
+                        "lng" : 57.4680743
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at La Croisiere Restaurant onto \u003cb\u003eHugnin Road\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "njqzB_fw}ITM"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2463214,
+                        "lng" : 57.46800179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 328
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : -20.2446804,
+                        "lng" : 57.47060599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Studio Sainte Anne onto \u003cb\u003eSuryeswananth St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by kalbanon movie prod ltd (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "dkqzBmfw}Ic@y@kAkBeA{A_@w@{@iAAAiAuB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2464271,
+                        "lng" : 57.4680743
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 671
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at Restaurant Ah Ken onto \u003cb\u003eDr Maurice Cure St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Tabagie Beeharry (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "f`qzBivw}IQkGASAYMuFCaAIaFMeA?gA@y@[cF"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2446804,
+                        "lng" : 57.47060599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : -20.2449886,
+                        "lng" : 57.4759025
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e at Maha Green House onto \u003cb\u003eNalla Ln\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Rose Hill Market (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "l}pzBi~x}IF@HL^r@x@rAFJb@x@"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69 m",
+                        "value" : 69
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : -20.2443672,
+                        "lng" : 57.4758673
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Central Way onto \u003cb\u003ePromenade Roland Armand\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Pistaches Chez Mame (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "dbqzBkwx}I{BD"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2449886,
+                        "lng" : 57.4759025
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Al BZNY CO LTD onto \u003cb\u003eDr Maurice Cure St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Editions Les Mascareignes Ltée (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "h~pzBewx}I[cF"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2443672,
+                        "lng" : 57.4758673
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : -20.2434272,
+                        "lng" : 57.47591
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e at Maha Green House onto \u003cb\u003eA1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Global Wealth Management Solutions Ltd. (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "l}pzBi~x}I{BtDMPEDOL"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2442332,
+                        "lng" : 57.4770109
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 372
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : -20.2402326,
+                        "lng" : 57.47614519999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eA11\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Dormeuil (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "lxpzBmwx}I?BAFA@?@A??@A??@A@A?A@A?A??@A?A?A?A?AAA?A??AA?A??AAAAA?AA??A?AA??A?AkBa@}DU]Au@Ay@@}AA}@D"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2434272,
+                        "lng" : 57.47591
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -20.2391423,
+                        "lng" : 57.47570320000001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Rochecouste St\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ldpzB}xx}IIJEDIDq@FUDa@JcA\\QH"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2402326,
+                        "lng" : 57.47614519999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 174
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : -20.2398235,
+                        "lng" : 57.4742007
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eP. De Valence St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "r}ozBcvx}IlA`E@@v@fB"
+                     },
+                     "start_location" : {
+                        "lat" : -20.2391423,
+                        "lng" : 57.47570320000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : [
+                  {
+                     "location" : {
+                        "lat" : -20.301815,
+                        "lng" : 57.47736219999999
+                     },
+                     "step_index" : 4,
+                     "step_interpolation" : 0.7951394006006844
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2997049,
+                        "lng" : 57.4861651
+                     },
+                     "step_index" : 10,
+                     "step_interpolation" : 0.7919340234039599
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2968464,
+                        "lng" : 57.4856694
+                     },
+                     "step_index" : 13,
+                     "step_interpolation" : 0.4502919462399652
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2924255,
+                        "lng" : 57.49126599999999
+                     },
+                     "step_index" : 14,
+                     "step_interpolation" : 0.8518596731030058
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2741285,
+                        "lng" : 57.5386068
+                     },
+                     "step_index" : 24,
+                     "step_interpolation" : 0.1393544756076641
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2531215,
+                        "lng" : 57.4706649
+                     },
+                     "step_index" : 39,
+                     "step_interpolation" : 0.3905077999655849
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2517217,
+                        "lng" : 57.47051239999999
+                     },
+                     "step_index" : 41,
+                     "step_interpolation" : 1
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2473057,
+                        "lng" : 57.4804101
+                     },
+                     "step_index" : 46,
+                     "step_interpolation" : 0.9377614965692399
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2468745,
+                        "lng" : 57.465087
+                     },
+                     "step_index" : 52,
+                     "step_interpolation" : 0.8579728915387208
+                  },
+                  {
+                     "location" : {
+                        "lat" : -20.2444106,
+                        "lng" : 57.4767784
+                     },
+                     "step_index" : 57,
+                     "step_interpolation" : 0.2222860769409826
+                  }
+               ]
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "`d`{Bo}z}IsAJv@lMuBJk@BqAFiENsC?mEEK?UAW?aDBaA@wMs@aCU_@CcOcA_Be@{AIoAFk@D{AJwAHoCHeADa@@y@DkEFw@OcA?wBNK@I@WBeDRmEd@wCP}BMUIOh@En@LlDIrBb@n@ZtB@ZFv@LlBVdDJpA|@`Nz@pL^f@pAB~CO[sFmGt@s@uKm@sI?ICSASEi@WgDMmBGw@CYAMOuAUa@Wo@HsBKsDTaAo@K}ATgANYiEMsBO_@eFbE{@VoAuCuGzCaBr@YH{BwGK?MC[e@mLoXiD_IlDiBo@aBa@kAkHwBaO{F_WaKeAYVeAeAkCsCeGaCmD{@aBc@}@Ug@_AiBGKOL{DfB[Nc@RkAd@uChAwCrAm@XUJQD_AGy@i@KJ_@H{@e@AaAl@c@V?JDl@m@hBuEX}@b@kAv@kDnCgMrBaGjAuB|GcKlC{ExA{Dv@mC]_@Ee@La@XUh@y@Ns@pA}Q~@eIvAaHpCsJhByEjBwCr@_AJ}@CQDe@LUi@u@qAbAkDrDA?GGKKMMYYs@s@yTcVeAkAuLiMuPoQWa@?uAA}A@yD?yEY]{Ae@UYCy@SmFYNuAj@e@r@HdCa@dB_AzB]RuK@u@EwASQJG@O|JSjDwCbCoJdH{@b@{AL_@f@Ar@RfACnA@r@BXBPuAV{AhAgHxHqD|DkAZ_Kt@iBXGFK@a@jDyBlGcBlBLHN\\Gx@O^f@xCbFrXd@nELvDGdD[lDm@vDeAnD_BlDoFpKySja@eFdKwBlEcD|DyHzIw@dBgBxG]|BNTBZIb@s@b@M?MCKTAVyArEmAlCuGfPy@vBIx@K^KFeApAg@bAeAbCcApA{B`CuBjAqC~@}H\\i@Li@b@_@`AO~EA^?^?`AAfC?bCItI?|@v@hD@@FJHHTTPNRRjEtDxClEFZpAkB\\c@HMTWf@q@h@q@RWpEjDNNb@\\nb@d^pBbBfGdFeEbCeC{FeBt@qB|@V~@W_ApB}@dBu@jAi@f@YYWECEEMK[Yy@q@]WUS{FwEaAy@r@_BlAqDjDsFcB}ASQGEKKMK[U[Uw@o@sBgB}GqFkAq@uA[k@]iAy@eBoAqB|C_AdByBbDKJIJSVSXi@n@qCxDX|G?fAj@n@hC|Dw@h@aBpAb@nPLfIPdK@fBT`@l@dAbB~CjBb@bABpCu@CKEUOk@Mk@AKsA_FeA_ETMoBeDcD_FiAuBQkGCm@i@_R@aCSaFjB`Db@x@{BD[cF{BtDSVOPCHEFG@OAuBq@kIW{CBOPsB^uAf@nAbEv@fB"
+         },
+         "summary" : "Terre Rouge - Verdun - Trianon Link Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
